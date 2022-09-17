@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Task4
+build_property.ProjectDir = C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\

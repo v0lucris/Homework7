@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Geekbrains\03. ДЗ\07.10.09.2022 Как не нужно писать код.Ч.1\Git10092022\Task4\obj\Debug\net6.0\ref\Task4.dll
